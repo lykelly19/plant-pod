@@ -3,5 +3,45 @@ body {
 }
 
 .logo {
-	width: 50%;
+	width: 80%;
+	padding-top: 300px;
+}
+
+.nav-logo {
+	width: 180px;
+}
+
+.center {
+	text-align: center;
+}
+
+.home-subtitle {
+	color: black;
+	font-size: 25px;
+	padding-top: 50px;
+}
+
+.home-btn {
+	background-color: #114B5F;
+	color: white;
+	padding: 10px 40px 10px 40px;
+	font-size: 30px;
+	border-radius: 35px;
+	border-color: #114B5F;
+}
+
+.home-btn:hover {
+	background-color: #1D7D9F;
+}
+
+.bg-green {
+	background-color: #1A936F;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: white!important;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: black!important;
 }
