@@ -45,3 +45,11 @@ body {
 .navbar-light .navbar-nav .nav-link:hover {
 	color: black!important;
 }
+
+h1{ 
+	font-family: 'Lato', sans-serif;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+
+}
